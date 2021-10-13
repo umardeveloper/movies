@@ -154,8 +154,7 @@ function renderFilms(arr, node) {
 
     newLi.appendChild(newImage);
     newLi.appendChild(newHeading);
-    newLi.appendChild(newParagraph);
-    newLi.appendChild(newTime);
+
     newLi.appendChild(newGenreList);
     newLi.appendChild(newbookMarkBtn);
     newLi.appendChild(newMoreBtn);
